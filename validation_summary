@@ -1,0 +1,25 @@
+LEGACY SENSOR VALIDATION
+----------------------------------------
+
+Archive reference: VAL-2024-06
+Review date: 2024-06-12
+
+The archive contains records from several
+sensor validation procedures.
+
+All successful calibration procedures
+generate a test marker.
+
+Generated markers are recorded with:
+- Sensor identifier
+- Timestamp
+- Tracking reference
+- Expected fingerprint
+
+Historical observations should be checked
+against the corresponding maintenance
+and calibration records before being
+classified as external activity.
+
+----------------------------------------
+ARCHIVE STATUS: MIGRATED
