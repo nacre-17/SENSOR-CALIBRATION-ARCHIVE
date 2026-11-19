@@ -1,0 +1,30 @@
+ARCHIVE MIGRATION LOG
+----------------------------------------
+
+MIGRATION ID: MIG-2024-0612
+DATE: 2024-06-12
+
+SOURCE:
+Legacy Sensor Documentation
+
+MIGRATION OPERATOR:
+atlas_17
+
+DESTINATION:
+SENSOR-CALIBRATION-ARCHIVE
+
+RECORDS MIGRATED:
+- Maintenance schedules
+- Calibration records
+- Validation summaries
+
+NOTES:
+
+Historical records were transferred
+without modification.
+
+The original contributor reference
+was retained for traceability.
+
+----------------------------------------
+MIGRATION COMPLETE
