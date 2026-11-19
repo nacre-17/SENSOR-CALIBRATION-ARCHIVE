@@ -1,0 +1,5 @@
+maintenance_id,sensor_id,start_time,end_time,maintenance_type,status
+MNT-041,SENSOR-NODE-04,2024-06-11 09:00:00,2024-06-11 09:30:00,Routine calibration,completed
+MNT-042,SENSOR-NODE-02,2024-06-11 11:00:00,2024-06-11 11:20:00,Signal inspection,completed
+MNT-043,SENSOR-NODE-07,2024-06-12 08:30:00,2024-06-12 09:00:00,Routine calibration,completed
+MNT-044,SENSOR-NODE-04,2024-06-13 14:00:00,2024-06-13 14:30:00,Transmission test,completed
