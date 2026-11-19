@@ -1,0 +1,5 @@
+calibration_id,sensor_id,timestamp,tracking_reference,expected_fingerprint,test_type,result
+CAL-441,SENSOR-NODE-04,2024-06-11 09:14:00,TS-441,7F2A91C0,Marker generation,success
+CAL-442,SENSOR-NODE-02,2024-06-11 11:08:00,TS-442,9A31C7D2,Signal verification,success
+CAL-443,SENSOR-NODE-07,2024-06-12 08:42:00,TS-443,4D8B20E1,Marker generation,success
+CAL-444,SENSOR-NODE-04,2024-06-13 14:12:00,TS-444,6E12A9F3,Transmission test,success
